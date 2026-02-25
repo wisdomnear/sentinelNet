@@ -1,23 +1,16 @@
-# Bittensor Subnet Ideathon
+# SentinelNet - Bittensor Subnet Ideathon Submission
 
-## Overview
-The Bittensor Subnet Ideathon is an event that invites developers and innovators to create and improve upon the Bittensor network by leveraging its unique decentralized architecture.
+## Submission Links
 
-This ideathon aims to bring together experts from various fields to think outside the box and propose solutions that enhance the Bittensor ecosystem, fostering collaboration and creativity.
+### Proposal
+- [SentinelNet_v4.pdf](./SentinelNet_v4.pdf)
 
-## Submission Material Links
-- **Official Submission Guidelines:** [Submission Guidelines](https://bittensor.com/submission-guidelines)
-- **Registration:** [Register Here](https://bittensor.com/register)
-- **Judging Criteria:** [Judging Criteria](https://bittensor.com/judging-criteria)
-- **Q&A Sessions:** [Join Q&A](https://bittensor.com/qa-sessions)
-- **FAQs:** [Frequently Asked Questions](https://bittensor.com/faqs)
+### Video Walkthrough
+- https://youtu.be/Mn0KB9hxqaM
 
-## Important Dates
-- **Start Date:** 2026-03-01
-- **End Date:** 2026-04-01
-- **Winners Announced:** 2026-04-15
+### Pitch Deck
+- [SentinelNet_PitchDeck.pptx](./SentinelNet_PitchDeck.pptx)
+- https://docs.google.com/presentation/d/130Fk-BixoV7XhwgE412e29S_NChDZHn80RtyCIGgb9w/edit?usp=sharing
 
-## Contact Information
-For further queries, please reach out to us at: [contact@bittensor.com](mailto:contact@bittensor.com)  
-
-Let's innovate together!
+### Public Introduction Post
+- https://x.com/thevoxApp/status/2026670558885089306?s=20
